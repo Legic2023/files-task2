@@ -1,0 +1,5 @@
+# Default ignored files
+games
+*.iml
+.idea
+out
